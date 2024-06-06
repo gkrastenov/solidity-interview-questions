@@ -25,7 +25,6 @@
 - DOS on blockchain
 - First 4 bytes of a function, why is it important?
 - Merkle root 3
-- Halborn blog post
 - What 2 files do you have when you deploy a smart contract
 - Testnets on ETH
 - Store a private key inside a variable is it secure?
